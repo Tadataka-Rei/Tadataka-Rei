@@ -1,3 +1,3 @@
 It is me! Rata!
 
-![Alt Text]([https://tenor.com/view/rampo-edogawa-bsd-bungo-stray-dogs-рампо-gif-3771402302437918444](https://tenor.com/view/yaowee-gc-yolk-gc-ranpo-edogawa-bungo-stray-dogs-balls-gif-6481133885410375576)
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXk4bG9lMmVjd3F3eGlieWZsZWY2anhtdXcwaDd4cWthcHk3cndqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHwcog5EVT41twIeha/giphy.gif)
