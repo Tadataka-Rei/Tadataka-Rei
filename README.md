@@ -10,7 +10,8 @@
 I build random things that interest me. Sometimes it's a web app, sometimes a game, and sometimes it's just a questionable piece of code that somehow works. I enjoy experimenting with low-level logic, automation tools, and hardware bridging.
 
 ---
-
+### My personal website
+- [https://tevel.hoki-themis.ts.net](https://tevel.hoki-themis.ts.net/)
 ### 🚀 Featured Projects
 
 #### 🛠️ Hardware & Automation
