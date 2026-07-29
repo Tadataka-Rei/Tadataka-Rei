@@ -7,66 +7,95 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXk4bG9lMmVjd3F3eGlieWZsZWY2anhtdXcwaDd4cWthcHk3cndqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHwcog5EVT41twIeha/giphy.gif" alt="wave" />
 </p>
 
-I build random things that interest me. Sometimes it's a web app, sometimes a game, and sometimes it's just a questionable piece of code that somehow works. I enjoy experimenting with low-level logic, automation tools, and hardware bridging.
+<p align="center">
+  <em>I build random things that interest me. Sometimes it's a web app, sometimes a game, and sometimes it's just a questionable piece of code that somehow works. I enjoy experimenting with low-level logic, automation tools,...</em>
+</p>
+
+<p align="center">
+  🌐 <strong>Personal Website:</strong> <a href="https://tevel.hoki-themis.ts.net/">tevel.hoki-themis.ts.net</a>
+</p>
 
 ---
-### My personal website
-- [https://tevel.hoki-themis.ts.net](https://tevel.hoki-themis.ts.net/)
-### 🚀 Featured Projects
 
-#### 🛠️ Hardware & Automation
-*   **[Program-ESP-E12-using-ESP32](https://github.com/Tadataka-Rei/Program-ESP-E12-using-ESP32)** 
-    A project dedicated to programming and flashing ESP E12F (ESP8266) modules directly by leveraging an ESP32 board.
-*   **[Autoclick_CPP](https://github.com/Tadataka-Rei/Autoclick_CPP)** 
-    A lightweight, native mouse autoclicker program compiled in C++ using the `windows.h` library to execute custom interval clicking.
+## 🚀 Featured Projects
 
-#### 👥 Academic & Collaborative
-*   **[SMART-TRASH](https://github.com/Tadataka-Rei/SMART-TRASH)** 
-    A collaborative, automated class project developed alongside peers focusing on intelligent waste sorting or management systems.
+### 🌐 Web Apps & Systems
+| Project | Description | Tech Stack / Highlights |
+| :--- | :--- | :--- |
+| **[Study Schedule Management System](https://github.com/Tadataka-Rei/Study-Schedule-Management-System)** | A full-featured SSMS, not intending for personal use, but for a school system use, with full role base, semester, classroom sign up and scheduling. | <code>Node.js</code> <code>Express</code> <code>MongoDB</code> |
+
+### 🛠️ Hardware & Automation
+| Project | Description | Tech Stack / Highlights |
+| :--- | :--- | :--- |
+| **[Program-ESP-E12-using-ESP32](https://github.com/Tadataka-Rei/Program-ESP-E12-using-ESP32)** | Flashing and programming ESP E12F (ESP8266) modules directly by leveraging an ESP32 board. | <code>ESP32</code> <code>ESP8266</code> <code>C++</code> |
+| **[Narou-Novel-Downloader](https://github.com/Tadataka-Rei/Narou-Novel-Downloader)** | A lightweight, python program  to scrap chapters from a Web Novel URL from [syosetu](https://ncode.syosetu.com) helping me in translating| <code>Python</code> <code>scrapper</code> |
+
+### 👥 Academic & Collaborative
+| Project | Description | Tech Stack / Highlights |
+| :--- | :--- | :--- |
+| **[SMART-TRASH](https://github.com/Tadataka-Rei/SMART-TRASH)** | A collaborative, automated class project focused on remote and smart management systems. | <code>IoT</code> <code>Hardware Integration</code> |
 
 ---
-### 💻 Tech Stack & Tools
 
-#### 🚀 Languages & Frameworks
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+## 💻 Tech Stack & Tools
 
-#### 🔌 Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?logo=platformio&logoColor=%23f5822a)
-![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?logo=espressif&logoColor=white)
-
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-
-#### 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)
-
-#### ⚙️ DevOps, OS & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?logo=virtualbox&logoColor=white)
-![Linux%20Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)
-![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Languages & Frameworks</h4>
+      <p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" />
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/node.js-6DA55F.svg?logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+      </p>
+      <h4>🔌 Hardware & IoT</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?logo=platformio&logoColor=%23f5822a" />
+        <img src="https://img.shields.io/badge/espressif-E7352C.svg?logo=espressif&logoColor=white" />
+      </p>
+      <h4>🗄️ Databases</h4>
+      <p>
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Design & Creative</h4>
+      <p>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" />
+      </p>
+      <h4>⚙️ DevOps, OS & Tools</h4>
+      <p>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?logo=virtualbox&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" />
+        <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tadataka-rei)
-<br/>
-![Profile views](https://komarev.com/ghpvc/?username=tadataka-rei&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=tadataka-rei&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tadataka-rei&color=blue" alt="Profile views" />
+</p>
