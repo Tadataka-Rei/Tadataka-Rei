@@ -33,8 +33,9 @@
 ### 👥 Academic & Collaborative
 | Project | Description | Tech Stack / Highlights |
 | :--- | :--- | :--- |
+| **[Civil Servant Personnel Record Management System](https://github.com/Tadataka-Rei/hqtcsdl-quanlylylichvienchuc)** | A comprehensive, normalized MySQL database system wrapped in a Dockerized PHP web application to efficiently manage civil servant records, automate HR workflows, and support bulk data operations. | <code>PHP</code> <code>MySQL</code> <code>Docker</code> <code>Relational Databases</code> |
+| **[Forum System (NoSQL)](https://github.com/uselessonee/CSN-DA23TTA-LeTrungHieu-HeThongDienDan-NoSQL)** | A project in the field of study, design a forum structure using NOSQL database, Including Rest API with CRUD operation | <code>MongoDB</code> <code>Express</code> |
 | **[SMART-TRASH](https://github.com/Tadataka-Rei/SMART-TRASH)** | A collaborative, automated class project focused on remote and smart management systems. | <code>IoT</code> <code>Hardware Integration</code> |
-
 ---
 
 ## 💻 Tech Stack & Tools
