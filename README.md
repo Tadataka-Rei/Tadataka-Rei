@@ -23,13 +23,13 @@
 | Project | Description | Tech Stack / Highlights |
 | :--- | :--- | :--- |
 | **[Study Schedule Management System](https://github.com/Tadataka-Rei/Study-Schedule-Management-System)** | A full-featured SSMS, not intending for personal use, but for a school system use, with full role base, semester, classroom sign up and scheduling. | <code>Node.js</code> <code>Express</code> <code>MongoDB</code> |
-| **[Personal Blog](https://github.com/Tadataka-Rei/Personal_blog)** | A dark-themed personal blog built for me. The project combines a lightweight static frontend (HTML/CSS/vanilla JS) with a PHP admin panel for full CRUD management of blog posts. Designed to be as lightweight as possible while still functional, able to run on a 2GB TV BOX| <code>PHP</code> <code>HTML</code> <code>Javascript</code> |
+| **[Personal Blog](https://github.com/Tadataka-Rei/Personal_blog)** | A dark-themed personal blog built for me. The project combines a lightweight static frontend (HTML/CSS/vanilla JS) with a PHP admin panel for full CRUD management of blog posts. Designed to be as lightweight as possible while still functional, able to run on a 2GB TV BOX.| <code>PHP</code> <code>HTML</code> <code>Javascript</code> |
 
 ### 🛠️ Hardware & Automation
 | Project | Description | Tech Stack / Highlights |
 | :--- | :--- | :--- |
 | **[Program-ESP-E12-using-ESP32](https://github.com/Tadataka-Rei/Program-ESP-E12-using-ESP32)** | Flashing and programming ESP E12F (ESP8266) modules directly by leveraging an ESP32 board. | <code>ESP32</code> <code>ESP8266</code> <code>C++</code> |
-| **[Narou-Novel-Downloader](https://github.com/Tadataka-Rei/Narou-Novel-Downloader)** | A lightweight, python program  to scrap chapters from a Web Novel URL from [syosetu](https://ncode.syosetu.com) helping me in translating| <code>Python</code> <code>scrapper</code> |
+| **[Narou-Novel-Downloader](https://github.com/Tadataka-Rei/Narou-Novel-Downloader)** | A lightweight, python program  to scrape chapters from a Web Novel URL from [syosetu](https://ncode.syosetu.com) helping me in translating.| <code>Python</code> <code>scraper</code> |
 
 ### 👥 Academic & Collaborative
 | Project | Description | Tech Stack / Highlights |
