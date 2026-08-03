@@ -23,6 +23,7 @@
 | Project | Description | Tech Stack / Highlights |
 | :--- | :--- | :--- |
 | **[Study Schedule Management System](https://github.com/Tadataka-Rei/Study-Schedule-Management-System)** | A full-featured SSMS, not intending for personal use, but for a school system use, with full role base, semester, classroom sign up and scheduling. | <code>Node.js</code> <code>Express</code> <code>MongoDB</code> |
+| **[Personal Blog](https://github.com/Tadataka-Rei/Personal_blog)** | A dark-themed personal blog built for me. The project combines a lightweight static frontend (HTML/CSS/vanilla JS) with a PHP admin panel for full CRUD management of blog posts. Designed to be as lightweight as possible while still functional, able to run on a 2GB TV BOX| <code>PHP</code> <code>HTML</code> <code>Javascript</code> |
 
 ### 🛠️ Hardware & Automation
 | Project | Description | Tech Stack / Highlights |
