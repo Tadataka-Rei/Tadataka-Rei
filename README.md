@@ -84,8 +84,6 @@
         <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
         <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?logo=virtualbox&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" />
-        <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" />
       </p>
     </td>
   </tr>
