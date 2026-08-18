@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  🌐 <strong>Personal Website:</strong> <a href="https://tevel.hoki-themis.ts.net/">tevel.hoki-themis.ts.net</a>
+  🌐 <strong>Personal Website:</strong> <a href="https://tevel.hoki-themis.ts.net/">tevel.hoki-themis.ts.net</a> (won't be on 24/24 because electricity bill)
 </p>
 
 ---
