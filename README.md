@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <em>I build random things that interest me. Sometimes it's a web app, sometimes a game, and sometimes it's just a questionable piece of code that somehow works. I enjoy experimenting with low-level logic, automation tools,...</em>
+  <em>A dev, not yet know where to go in life. Like to learn everything but knowing I don't have enough time</em>
 </p>
 
 <p align="center">
