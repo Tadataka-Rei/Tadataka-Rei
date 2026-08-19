@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <em>A dev, not yet know where to go in life. Like to learn everything but knowing I don't have enough time</em>
+  <em>A dev, not yet sure where I'm going in life. Like to learn everything but knowing I don't have enough time</em>
 </p>
 
 <p align="center">
-  🌐 <strong>Personal Website:</strong> <a href="https://tevel.hoki-themis.ts.net/">tevel.hoki-themis.ts.net</a> (won't be on 24/24 because electricity bill)
+  🌐 <strong>Personal Website:</strong> <a href="https://tevel.hoki-themis.ts.net/">tevel.hoki-themis.ts.net</a> (won't be online 24/7 because of electricity bill)
 </p>
 
 ---
