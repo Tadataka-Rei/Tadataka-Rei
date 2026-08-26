@@ -94,7 +94,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=tadataka-rei&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=trung-hieu379&show_icons=true&theme=radical" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tadataka-rei&color=blue" alt="Profile views" />
